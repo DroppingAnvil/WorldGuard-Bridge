@@ -12,7 +12,6 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <java.version>17</java.version>
         <package.directory>cc.javajobs.wgbridge.infrastructure.impl</package.directory>
     </properties>
 
