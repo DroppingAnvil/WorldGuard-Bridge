@@ -11,7 +11,7 @@
     <artifactId>WorldGuardBridge</artifactId>
 
     <build>
-        <finalName>WorldGuardBridge - 1.0 (Snapshot)</finalName>
+        <finalName>WorldGuardBridge</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -63,11 +63,6 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>cc.javajobs.wgbridge</groupId>
-            <artifactId>WorldGuardBridge_API</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
         <dependency>
             <groupId>cc.javajobs.wgbridge</groupId>
             <artifactId>WorldGuardV6</artifactId>
